@@ -10,7 +10,8 @@ function New() {
   const [playerInfo, setPlayerInfo] = useState({});
   const [isLoading, setIsLoading] = useState(false);
   const [awards, setAwards] = useState([]);
-
+  
+  //Test comment
   return (
     <>
       <BrowserRouter>
